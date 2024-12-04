@@ -15,7 +15,7 @@ singIST is a method for comparative single-cell transcriptomics between disease 
 - *Se quitó un vínculo externo para proteger su privacidad.*
 
 ## Installation
-Instructions on how to install the necessary software and dependencies.
+You can copy this github repository with
 
 ## Usage
 Detailed instructions on how to use your method, including code examples.
