@@ -1,7 +1,7 @@
 # singIST: an integrative method for comparative single-cell transcriptomics
 
 ## Description
-A brief description of your bioinformatics method.
+singIST is a method for comparative single-cell transcriptomics between disease models and humans, which provides explainable and quantiative insights into single-cell transcriptomics alignment.
 
 ## Table of Contents
 - *Se quitó un vínculo externo para proteger su privacidad.*
